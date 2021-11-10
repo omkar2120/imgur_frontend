@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+    background-color: rgba(9, 9, 51, 0.897);
+}
+
+.nav-main{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 10rem 10% 45% 10% 10% 10%  ;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.nav-bt{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-transform: capitalize;
+    
+}
+.icon, img{
+    height: 40px;
+    width: 150px;
+}
+
+button {
+    height: 40px;
+    width: 90px;
+}
+.new-bt{
+    background-color: rgb(31, 156, 38);
+    
+}
+.s-in{
+    background-color: rgb(8, 8, 218);
+    border-radius: 1px;
+
+
+}
+.text{
+    background: none;
+
+}
+.s-up{
+    background-color: rgb(31, 156, 38);
+
+}
+.new-bt,.s-in,.s-up,.text{
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    color: white;
+}
+
+.searchTerm{
+    width: 600px;
+    height: 30px;
+    background-color: rgb(102, 102, 122);
+    border: 1px solid rgb(118, 118, 158);
+    border-radius: 5px;
+    
+}
+
+

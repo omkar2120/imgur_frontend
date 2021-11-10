@@ -1,0 +1,62 @@
+
+.new-one{
+    display: flex;
+    padding-top: 100px;
+    position: relative;
+    left: 20%;
+    
+}
+.nav-cut{
+    border-radius: 50%;
+    width: 40px;
+    border: none;
+    background-color: rgb(44, 68, 67);
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top:50px;
+    left: 20px;
+
+
+}
+.new-text{
+    margin-top: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border:2px dotted white;
+    border-radius: 20px;
+    font-family: 'PT Sans Caption', sans-serif;
+    color: white;
+}
+.new-two{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(44, 68, 67);
+    
+}
+.new-three{
+    
+    height: 300px;
+    width: 400px;
+    background-color: rgb(41, 59, 49);
+}
+.new-icon{
+    color: white;
+    position: relative;
+    top:20px;
+    left:130px;
+}
+
+.paste-but{
+    align-items: center;
+    width: 80%;
+    margin-left: 35px;
+    border-radius: 10px;
+    font-family: 'PT Sans Caption', sans-serif;
+    color: white;
+    background-color: rgb(26, 23, 23)
+}
+.or{
+    text-align: center;
+    color: white;
+}

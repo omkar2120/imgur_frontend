@@ -1,0 +1,26 @@
+.header-main{
+   text-align: center;
+   color: white;
+}
+
+.head-card{
+    display: flex;
+    column-gap: 20px;
+    padding-left: 20px;
+    padding-top: 50px;
+
+}
+.head-text-right{
+      position: absolute;
+      top:125px;
+      left: 50px;
+      font-size: 20px;
+      text-transform: uppercase;
+}
+.head-text-left{
+    position: absolute;
+    top: 125px;
+    right: 50px;
+    font-size: 20px;
+    text-transform: uppercase;
+}

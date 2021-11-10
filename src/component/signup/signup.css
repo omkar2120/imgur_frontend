@@ -1,0 +1,46 @@
+.sign-main{
+    background-color: #141518;
+    height: 100vh;
+}
+.up-log-sign-main{
+    background-color:#2C2F34;
+    width: 390px;
+    justify-items: center;
+    position: relative;
+    left: 525px;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 15px;
+    
+}
+.up-log-sign{
+    position: relative;
+    left: 35px;
+    top:10px;    
+}
+h5{
+    color: white;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 11px;
+    text-align: center;
+    left: -50px;
+
+}
+.sign-in{
+    background-color: transparent;
+    border: none;
+    color: white;
+    position: absolute;
+    left:210px;
+    bottom: -49px;
+}
+.next-but{
+    background-color:#5c69ff ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    bottom: -50px;
+    right: 0px;
+    
+}

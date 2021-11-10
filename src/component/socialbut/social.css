@@ -1,0 +1,23 @@
+.log-sym{
+    width:390px;
+    height: 60px;
+    background-color:#2C2F34;
+    position: relative;
+    left: 525px;
+    display: flex;
+    column-gap: 5px;
+
+}
+
+.log-but{
+    align-items: center;
+    width: 70px;
+    position: relative;
+    top:10px;
+    left: 10px;
+    cursor: pointer;
+    background-color: #141518;
+    color: white;
+    border: none;
+    
+}
