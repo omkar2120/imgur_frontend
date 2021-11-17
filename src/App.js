@@ -5,7 +5,7 @@ import Login from './component/login/Login';
 import Newpost from './component/newpost/Newpost';
 import { BrowserRouter, Route} from "react-router-dom";
 import { Switch } from "react-router-dom";
-import "./index.css";
+import "./index.css";                
 
 export const App = () => {
   return (
@@ -24,4 +24,4 @@ export const App = () => {
   </BrowserRouter>  
   )
 }
-export default App;
+export default App;                 
